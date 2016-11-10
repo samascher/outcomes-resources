@@ -13,7 +13,7 @@
 []()
 
 ## LinkedIn Groups
-[General Assembly](https://www.linkedin.com/edu/alumni?id=150005&trk=edu-up-nav-menu-alumni)
+- [General Assembly](https://www.linkedin.com/edu/alumni?id=150005&trk=edu-up-nav-menu-alumni)
 
 ## Job Search / Market Research
 
