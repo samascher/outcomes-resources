@@ -4,10 +4,6 @@
 
 [Denver Script](https://www.meetup.com/DenverScript/)
 
-## Articles
-
-[]()
-
 ## Twitter Accounts to Follow
 
 []()
@@ -59,3 +55,21 @@
 
 - [Emotional Cycle of Change](http://65.media.tumblr.com/83daa5739159b1b193664466a5bc55ed/tumblr_nfxsazVp0Y1tp5jhzo1_1280.png)
 - [Imposter Syndrome - We all have it](https://davidwalsh.name/impostor-syndrome)
+
+## Articles
+
+[Guide to Creative Agency Roles](http://www.creativebloq.com/agencies/ultimate-guide-creative-agency-roles-41411464)
+[Screw Finding Your Passion](http://markmanson.net/passion)
+[5 People Every Creative Needs In Their Life](https://blog.musicbed.com/articles/the-5-people-every-creative-needs-in-life/177?utm_campaign=mb-blog&utm_medium=post&utm_source=facebook&utm_content=five-people-creative)
+[How To Ask For Advice](https://medium.com/art-of-practicality/how-to-study-people-you-admire-and-ask-for-their-advice-ef5d1c821763#.qqgfmlmsd)
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
