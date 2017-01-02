@@ -67,7 +67,7 @@
 - [Screw Finding Your Passion](http://markmanson.net/passion)
 - [5 People Every Creative Needs In Their Life](https://blog.musicbed.com/articles/the-5-people-every-creative-needs-in-life/177?utm_campaign=mb-blog&utm_medium=post&utm_source=facebook&utm_content=five-people-creative)
 - [How To Ask For Advice](https://medium.com/art-of-practicality/how-to-study-people-you-admire-and-ask-for-their-advice-ef5d1c821763#.qqgfmlmsd)
-- []()
+- [Why I’m Thankful for JS Fatigue.](https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f#.ue2m3s1xi)
 - []()
 - []()
 - []()
