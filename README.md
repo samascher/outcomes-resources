@@ -1,5 +1,10 @@
 # Outcome Resources
 
+## Qualification Requirements:
+
+![Qualification Requirements](img/qualification.png)
+![Seeking Status](img/seekingstatus.png)
+
 ## Meetups
 
 [Denver Script](https://www.meetup.com/DenverScript/)
