@@ -7,7 +7,7 @@
 
 ## Meetups
 
-[Denver Script](https://www.meetup.com/DenverScript/)
+- [Denver Script](https://www.meetup.com/DenverScript/)
 
 ## Twitter Accounts to Follow
 
@@ -64,6 +64,7 @@
 - Backend Developer (heavy JS, PHP, Ruby)
 - Web Developer (Full Stack)
 - Techinical Lead (HTML, CSS, JS, architecture & management)
+- Creative Technologist ("unicorn" - Design, Frontend and Backend proficiency)
 
 ## Startup Incubators
 
