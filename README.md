@@ -11,10 +11,26 @@
 
 ## Twitter Accounts to Follow
 
-[]()
+- [The Practical Dev](https://twitter.com/ThePracticalDev)
+- [Chris Coyier](https://twitter.com/chriscoyier)
+- [Matt Webb](https://twitter.com/creatify_me)
+- [Paul Irish](https://twitter.com/paul_irish)
+- [Eric Meyer](https://twitter.com/meyerweb)
 
-## LinkedIn Groups
-- [General Assembly](https://www.linkedin.com/edu/alumni?id=150005&trk=edu-up-nav-menu-alumni)
+## Blogs/Article Sites
+
+- [Signal V. Noise](https://m.signalvnoise.com/)
+- [Dev.to](https://dev.to/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Frontend Front](https://frontendfront.com/)
+- [Javascript Scene](https://medium.com/javascript-scene)
+
+## Podcasts
+
+- [Developer Tea](https://spec.fm/podcasts/developer-tea)
+- [ReplyAll](https://gimletmedia.com/reply-all/)
+- [Does Not Computer](https://spec.fm/podcasts/does-not-compute)
+- [99% Invisible](http://99percentinvisible.org/)
 
 ## Job Search / Market Research
 
@@ -36,7 +52,11 @@
 - [GlassDoor](https://www.glassdoor.com)
 - [Comparably](https://www.comparably.com/)
 
-## Job Titles (general)
+## Job Roles
+
+- Dev Skill Distribution Chart:
+
+![](img/DevChart.png)
 
 - UX Developer (Sketch/Photoshop, HTML, CSS, some JS)
 - Frontend Developer (HTML, CSS, light JS)
