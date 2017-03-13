@@ -24,6 +24,9 @@
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Frontend Front](https://frontendfront.com/)
 - [Javascript Scene](https://medium.com/javascript-scene)
+- [Code Newbie](http://www.codenewbie.org/)
+- [ThoughtBot](https://robots.thoughtbot.com/)
+- [Toptal](https://www.toptal.com/blog)
 
 ## Podcasts
 
@@ -31,6 +34,8 @@
 - [ReplyAll](https://gimletmedia.com/reply-all/)
 - [Does Not Computer](https://spec.fm/podcasts/does-not-compute)
 - [99% Invisible](http://99percentinvisible.org/)
+- [Changelog](https://changelog.com/)
+- [JS Jabber](https://devchat.tv/js-jabber)
 
 ## Job Search / Market Research
 
