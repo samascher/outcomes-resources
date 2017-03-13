@@ -76,7 +76,6 @@
 - [500 Startups](500.co/)
 - [AngelPad](angelpad.org/)
 
-
 ## Meta Skills
 
 - [Emotional Cycle of Change](http://65.media.tumblr.com/83daa5739159b1b193664466a5bc55ed/tumblr_nfxsazVp0Y1tp5jhzo1_1280.png)
