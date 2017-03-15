@@ -36,6 +36,7 @@
 - [99% Invisible](http://99percentinvisible.org/)
 - [Changelog](https://changelog.com/)
 - [JS Jabber](https://devchat.tv/js-jabber)
+- [Code Newbie](http://www.codenewbie.org/podcast)
 
 ## Job Search / Market Research
 
