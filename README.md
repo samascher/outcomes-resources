@@ -5,6 +5,11 @@
 ![Qualification Requirements](img/qualification.png)
 ![Seeking Status](img/seekingstatus.png)
 
+## Community
+
+- [Denver Devs Slack Org](https://join.denverdevs.org/)
+- [Denver Devs 'Welcome To Denver' List of Resources](https://github.com/Denver-Devs/welcome-to-denver)
+
 ## Meetups
 
 - [Denver Script](https://www.meetup.com/DenverScript/)
