@@ -77,6 +77,38 @@
 - Techinical Lead (HTML, CSS, JS, architecture & management)
 - Creative Technologist ("unicorn" - Design, Frontend and Backend proficiency)
 
+## Full List of Technoligies Learned:
+
+- HTML
+- CSS3 (SASS, animations, Box Model, Flexbox, Bootstrap)
+- JS (ES6, DOM Manipulation, OOP)
+- jQuery (browser storage, browser games)
+- AJAX
+- Node (running local servers, performing basic run-time functions)
+- APIs (creating them, working with 3rd party APIs)
+- Mocha Tests
+- Express (route-building)
+- Mongo DB
+- Mongoose
+- Full Stack App (JS + Node + Express + Mongoose + Mongo)
+- UX Crashcourse (User Research, Sketch, Photoshop)
+- Gulp
+- MVC (concept)
+- Passport (Auth + Security)
+- Angular (1+2)
+- Typescript
+- Full Stack App - MEAN stack (Mongo + Express + Angular + Node)
+- SQL
+- Postgres
+- Full Stack App - SEAN stack (SQL + Express + Angular + Node)
+- React
+- Redux
+- PHP
+- Wordpress
+- Ruby
+- Ruby on Rails
+
+
 ## Startup Incubators
 
 - [Galvanize](http://www.galvanize.com/become-a-member/)
