@@ -14,6 +14,15 @@
 
 - [Denver Script](https://www.meetup.com/DenverScript/)
 
+## Social Networks for Devs
+
+- [Dribble](https://dribbble.com/)
+- [CodePen](http://codepen.io/)
+- [AngelList](https://angel.co/)
+- [Github](https://github.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Meetup](http://www.meetup.com/)
+
 ## Twitter Accounts to Follow
 
 - [The Practical Dev](https://twitter.com/ThePracticalDev)
