@@ -1,5 +1,9 @@
 # Outcome Resources
 
+## Book Time with Becca
+
+[Here!](https://calendly.com/becca-zukowski)
+
 ## Qualification Requirements:
 
 ![Qualification Requirements](img/qualification.png)
