@@ -5,6 +5,17 @@
 ![Qualification Requirements](img/qualification.png)
 ![Seeking Status](img/seekingstatus.png)
 
+## About Me ReadMe info:
+
+1. What you did you do before GA?
+2. What kind of support do you think you'll need most from Outomes?
+3. What were were your Day 1 goals for this course?
+4. Give us two truths and a lie about yourself (don't tell us which are which!)
+5. Provide a link to your LinkedIn Profile 
+6. Describe what kind of company you'd like to work for (i.e. Agency, Startup, etc)
+7. Describe what kind of role you're leaning towards (i.e. Frontend, Backend, etc)
+8. Provide a link to your resume (it should be a file in your repo as well)
+
 ## Community
 
 - [Denver Devs Slack Org](https://join.denverdevs.org/)
