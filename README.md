@@ -27,7 +27,8 @@
 
 ## Meetups
 
-- [Denver Script](https://www.meetup.com/DenverScript/)
+- Colorado Health & Tech Meeting
+	https://www.meetup.com/Colorado-Health-Tech-Mashup/events/242201474/
 
 ## Social Networks for Devs
 
